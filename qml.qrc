@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+    </qresource>
+    <qresource prefix="/Component">
+        <file alias="Chat.qml">qml/Component/Chat.qml</file>
+        <file alias="Account.qml">qml/Component/Account.qml</file>
+        <file alias="Chat/SessionArea.qml">qml/Component/Chat/SessionArea.qml</file>
+        <file alias="Chat/SessionTab.qml">qml/Component/Chat/SessionTab.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="account.svg">resources/icons/account.svg</file>
+        <file alias="chat.svg">resources/icons/chat.svg</file>
+        <file alias="close.svg">resources/icons/close.svg</file>
+        <file alias="add_circle.svg">resources/icons/add_circle.svg</file>
+        <file alias="cancel.svg">resources/icons/cancel.svg</file>
+    </qresource>
+</RCC>
